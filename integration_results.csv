@@ -1,0 +1,5 @@
+sample_id,knn_prediction,knn_anomaly_probability,verilog_altitude,verilog_speed,battery,gps_valid,fault_code,fault_flag,recorder_frozen,both_flagged,knn_only,verilog_only
+0,1,0.9024390243902439,150,15,45,1,32,1,1,1,0,0
+1,1,0.9512195121951219,10,40,87,1,16,1,1,1,0,0
+2,1,0.8292682926829268,10,15,10,1,4,1,1,1,0,0
+3,1,1.0,120,15,66,0,8,1,1,1,0,0
